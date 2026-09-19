@@ -1,33 +1,34 @@
-### Hi there, I'm Adley Bracho Garduño 👋
+# Hi there, I'm Adley Bracho-Garduño 👋
 
-> **Mechatronics & Controls Engineer** passionate about bridging the gap between industrial automation (PLCs, SCADA) and modern Artificial Intelligence (Edge AI, RAG systems, and Machine Learning).
+**Mechatronics & Cyber-Physical Systems Engineer | M.Eng. Researcher**
 
----
-
-### 💻 Tech Stack & Tools
-
-
-* **Programming & AI:** Python, C++, C#, PyTorch, TensorFlow, OpenCV, Sentence-Transformers, Groq API, Streamlit.
-* **Embedded Systems & IoT:** ESP32, Arduino, Raspberry Pi, NVIDIA Jetson, FreeRTOS, Modbus, MQTT, EtherNet/IP.
-* **Industrial Automation:** Siemens TIA Portal (S7-1200/1500), Allen-Bradley Studio 5000, PLCs, HMIs, SCADA, PID Control.
-* **Mechanical Design & Fabrication:** SolidWorks (CSWP/CSWA-S), CAD/CAM, 3D Printing (FDM/SLA), CNC Machining.
+EU Citizen (Spain) 🇪🇸 | IEEE Published Author 📄
 
 ---
 
-### 🚀 Featured Projects
-
-* **[Industrial Technical RAG Assistant](https://github.com/your-username/industrial-rag-assistant):** An advanced web application using Streamlit, Groq, and Sentence-Transformers to instantly parse technical manuals and query industrial documentation.
-* **[More repositories coming soon...]**
-
----
-
-### 📈 GitHub Stats
-
-![Adley's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 🚀 About Me
+- **Research Focus:** Cyber-Physical Systems, Embedded Firmware, Edge AI, Precision Motion Control, and Additive Manufacturing.
+- **Master's Thesis:** Automated 2D Deposition System for Flexible Nanosensors.
+- **IP & Publications:** 2 IEEE ICIT 2026 papers, pending utility model patent (IMPI MX/u/2026/000296), and INDAUTOR software registration (03-2026-010813392000-01).
 
 ---
 
-### 📫 Connect with me
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C/C++, C#, SQL, MATLAB, HTML/CSS, G-code, Ladder Logic
+- **Embedded & Edge AI:** FreeRTOS, ESP32, Raspberry Pi, NVIDIA Jetson, PyTorch, TensorFlow, OpenCV
+- **Protocols & Control:** UART, SPI, I2C, PWM, Modbus, EtherNet/IP, MQTT, PID Control
+- **Automation & CAD:** Siemens TIA Portal, Allen-Bradley Studio 5000, HMI/SCADA, SolidWorks (CSWP, CSWA-S), Proteus, FlatCAM
 
-* Location: Durango, Mexico
-* Focus: Controls Engineering, Industrial AI, and Embedded Systems.
+---
+
+### 📂 Featured Projects
+- **Nanoink Designer:** PyQT/Python desktop application for path planning and G-code streaming in nanosensor printing.
+- **Poli-IA University Assistant:** RAG-based query engine using LlamaIndex, Python sentence embeddings, and OpenAI models.
+- **Edge AI Vision Server:** Flask-based computer vision inference API deployed on NVIDIA Jetson hardware.
+- **Chest X-Ray Pathology Detector:** DenseNet121 CNN trained on 112,000+ X-ray images for multi-label pathology detection.
+
+---
+
+### 📫 Connect with Me
+- **Email:** adley.bg@gmail.com
+- **LinkedIn:** [Adley Bracho-Garduño](https://www.linkedin.com/in/adley-bracho)
