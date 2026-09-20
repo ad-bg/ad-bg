@@ -2,7 +2,7 @@
 
 **Mechatronics & Cyber-Physical Systems Engineer | M.Eng. Researcher**
 
-EU Citizen (Spain) 🇪🇸 | IEEE Published Author 📄
+EU Citizen (Spain) 🇪🇸 | Mexican Citizen 🇲🇽 | IEEE Published Author 📄
 
 ---
 
